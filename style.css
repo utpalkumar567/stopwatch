@@ -37,7 +37,7 @@ body{
     color: #fff;
     background-color: var(--clr);
     padding: 12px 24px;
-    margin-inline: 12px;
+    margin-inline: 8px;
     border-radius: 8px;
     cursor: pointer;
 }
